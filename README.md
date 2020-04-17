@@ -1,2 +1,4 @@
 # tableau-elearning
-Изучение табло, примеры на https://elearning.tableau.com/
+Изучение инструмента для аналитики Tableau Software, примеры на https://elearning.tableau.com/
+
+Без основ, начиная с Desktop II: Fundamentals
